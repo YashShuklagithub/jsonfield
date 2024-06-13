@@ -21,6 +21,8 @@ INVALID_JSON_WARNING = (
     'been returned as a string instead.'
 )
 
+def print_yash():
+    print("yash")
 
 class JSONFieldMixin(models.Field):
     form_class = forms.JSONField

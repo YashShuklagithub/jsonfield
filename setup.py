@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 
 setup(
-    name='jsonfield',
+    name='yashfield',
     version='3.1.0',
     license='MIT',
     include_package_data=True,
